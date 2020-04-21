@@ -1,0 +1,12 @@
+hr{
+	width:250px;
+	border-top:3px solid #999;
+}
+
+section{
+	min-height: 600px;
+}
+
+.contact{
+	min-height: 800px;
+}
